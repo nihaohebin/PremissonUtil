@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PermissionManager</string>
+
+    <string name="open_storage_permit">存储</string>
+    <string name="open_sms_permit">短信</string>
+    <string name="open_phone_state_permit">电话</string>
+    <string name="open_location_permit">定位</string>
+    <string name="open_camera_permit">相机</string>
+    <string name="open_permit">请打开权限</string>
+
+</resources>
